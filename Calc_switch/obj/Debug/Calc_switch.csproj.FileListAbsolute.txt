@@ -1,0 +1,14 @@
+C:\C# Visual Studio\Lab03\Calc_switch\Calc_switch\bin\Debug\Calc_switch.exe.config
+C:\C# Visual Studio\Lab03\Calc_switch\Calc_switch\bin\Debug\Calc_switch.exe
+C:\C# Visual Studio\Lab03\Calc_switch\Calc_switch\bin\Debug\Calc_switch.pdb
+C:\C# Visual Studio\Lab03\Calc_switch\Calc_switch\obj\Debug\Calc_switch.csproj.CoreCompileInputs.cache
+C:\C# Visual Studio\Lab03\Calc_switch\Calc_switch\obj\Debug\Calc_switch.exe
+C:\C# Visual Studio\Lab03\Calc_switch\Calc_switch\obj\Debug\Calc_switch.pdb
+C:\C# Visual Studio\Lab03\Calc_switch\Calc_switch\obj\Debug\Calc_switch.csprojResolveAssemblyReference.cache
+C:\Users\users\Desktop\Лабка ТП\Lab03\Calc_switch\Calc_switch\bin\Debug\Calc_switch.exe.config
+C:\Users\users\Desktop\Лабка ТП\Lab03\Calc_switch\Calc_switch\bin\Debug\Calc_switch.exe
+C:\Users\users\Desktop\Лабка ТП\Lab03\Calc_switch\Calc_switch\bin\Debug\Calc_switch.pdb
+C:\Users\users\Desktop\Лабка ТП\Lab03\Calc_switch\Calc_switch\obj\Debug\Calc_switch.csprojResolveAssemblyReference.cache
+C:\Users\users\Desktop\Лабка ТП\Lab03\Calc_switch\Calc_switch\obj\Debug\Calc_switch.csproj.CoreCompileInputs.cache
+C:\Users\users\Desktop\Лабка ТП\Lab03\Calc_switch\Calc_switch\obj\Debug\Calc_switch.exe
+C:\Users\users\Desktop\Лабка ТП\Lab03\Calc_switch\Calc_switch\obj\Debug\Calc_switch.pdb
